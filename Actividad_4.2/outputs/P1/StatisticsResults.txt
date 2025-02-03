@@ -1,0 +1,70 @@
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC1.txt
+
+Mean: 241.91228070175438
+Median: 239.0
+Mode: [393.0, 170.0]
+Variance: 21086.305588532734
+SD: 145.21124470416447
+Time: 0.0005669593811035156
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC2.txt
+
+Mean: 250.7840161861406
+Median: 247.0
+Mode: [230.0]
+Variance: 20785.369132479253
+SD: 144.17131868884064
+Time: 0.0018351078033447266
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC3.txt
+
+Mean: 249.77621989860583
+Median: 249.0
+Mode: [94.0]
+Variance: 21117.277473163307
+SD: 145.3178498091797
+Time: 0.009332418441772461
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC4.txt
+
+Mean: 149.00267347908746
+Median: 147.75
+Mode: [123.75]
+Variance: 17007.92084301886
+SD: 130.41441961308902
+Time: 0.010509014129638672
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC5.txt
+
+Mean: 241.49511400651465
+Median: 241.0
+Mode: [393.0, 19.0, 368.0, 290.0, 56.0, 11.0, 76.0, 215.0, 64.0, 375.0, 466.0, 277.0, 211.0, 46.0, 278.0, 170.0, 166.0, 96.0, 268.0]
+Variance: 21160.02196309775
+SD: 145.46484786056646
+Time: 0.0011410713195800781
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC6.txt
+
+Mean: 1.8790659927977443e+20
+Median: 1.88008049965543e+20
+Mode: #N/A
+Variance: 1.1530904699530652e+40
+SD: 1.0738205017381002e+20
+Time: 0.00394129753112793
+
+
+/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P1/TC7.txt
+
+Mean: 2.4746739549971625e+20
+Median: 2.4664097307429e+20
+Mode: #N/A
+Variance: 2.091079314713653e+40
+SD: 1.446056470098472e+20
+Time: 0.011959075927734375
