@@ -1,5 +1,15 @@
 """
-This is the documentation part
+This script reads a file containing decimal numbers, converts them to binary and hexadecimal, 
+and saves the results along with execution time to an output file.
+
+Steps:
+1. Reads the input file specified as a command-line argument.
+2. Converts each decimal number to its binary and hexadecimal equivalents.
+3. Displays the transformed data in the terminal.
+4. Saves the results along with execution time to a specified output file.
+
+Author: [Alonso Pedrero]
+Date: [03-01-2025]
 """
 
 import pathlib
