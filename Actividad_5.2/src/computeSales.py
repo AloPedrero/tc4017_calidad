@@ -1,5 +1,7 @@
 """
-
+Act 5.2
+Alonso Pedrero Martinez
+A01769076
 """
 import pandas as pd
 import pathlib
