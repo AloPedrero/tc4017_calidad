@@ -1,6 +1,6 @@
 
 
-/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P3/TC1.txt
+../files/P3/TC1.txt
 
 Time elapsed for execution & data calculation: 0.0004 seconds
 conservative: 2
@@ -104,9 +104,9 @@ significance: 1
 coastal: 1
 
 
-/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P3/TC2.txt
+../files/P3/TC2.txt
 
-Time elapsed for execution & data calculation: 0.0004 seconds
+Time elapsed for execution & data calculation: 0.0011 seconds
 lease: 4
 brass: 4
 revenues: 4
@@ -253,9 +253,9 @@ excessive: 1
 jon: 1
 
 
-/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P3/TC3.txt
+../files/P3/TC3.txt
 
-Time elapsed for execution & data calculation: 0.0012 seconds
+Time elapsed for execution & data calculation: 0.0005 seconds
 notice: 3
 flood: 2
 pottery: 2
@@ -745,9 +745,9 @@ gradually: 1
 placing: 1
 
 
-/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P3/TC4.txt
+../files/P3/TC4.txt
 
-Time elapsed for execution & data calculation: 0.0011 seconds
+Time elapsed for execution & data calculation: 0.0010 seconds
 started: 3
 literally: 2
 ringtone: 2
@@ -1699,9 +1699,9 @@ expired: 1
 circular: 1
 
 
-/Users/alonsopedreromartinez/Documents/GitHub/tc4017_calidad/Actividad_4.2/files/P3/TC5.txt
+../files/P3/TC5.txt
 
-Time elapsed for execution & data calculation: 0.0035 seconds
+Time elapsed for execution & data calculation: 0.0036 seconds
 wilderness: 5
 managed: 5
 schools: 5
