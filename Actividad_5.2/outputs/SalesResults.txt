@@ -1,0 +1,16 @@
+
+
+../files/TC1/TC1.Sales.json
+
+Time elapsed: 0.0115 seconds 
+total cost 2481.86
+
+../files/TC2/TC2.Sales.json
+
+Time elapsed: 0.0057 seconds 
+total cost 166568.23
+
+../files/TC3/TC3.Sales.json
+
+Time elapsed: 0.0085 seconds 
+total cost 165235.37
