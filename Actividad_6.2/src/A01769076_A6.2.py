@@ -4,21 +4,17 @@ Alonso Pedrero Martinez
 A01769076
 """
 
-import pandas as pd
-import pathlib
-import sys
-from customer import Customer
-from customer_factory import CustomerFactory
-from hotel import Hotel
-from hotel_factory import HotelFactory
+import unittest
+from customer_factory_test import CustomerFactoryTest
+from hotel_factory_test import HotelFactoryTest
+from reservations_factory_test import ReservationFactoryTest
 
+if __name__ == "__main__":
+    suite = unittest.TestSuite()
 
-"""database = sys.argv[1]
-function = sys.argv[2]"""
+    suite.addTest(unittest.makeSuite(CustomerFactoryTest))
+    suite.addTest(unittest.makeSuite(HotelFactoryTest))
+    suite.addTest(unittest.makeSuite(ReservationFactoryTest))
 
-HotelFactory.create_hotel("1", "New ONE", "MX", 30, 305.0, 5.0)
-
-HotelFactory.delete_hotel("1", "New ONE", "MX", 30, 305.0, 5.0)
-
-HotelFactory.create_hotel("2", "New Holiday Inn", "MX", 30, 305.0, 5.0)
-
+    runner = unittest.TextTestRunner()
+    runner.run(suite)

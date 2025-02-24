@@ -4,9 +4,6 @@ import pandas as pd
 
 
 class HotelFactory():
-    """
-    
-    """
     @staticmethod
     def create_hotel(hotel_id: str,
                      name: str,

@@ -3,7 +3,7 @@ import uuid
 from customer_factory import CustomerFactory
 
 
-class CustomerTest(unittest.TestCase):
+class CustomerFactoryTest(unittest.TestCase):
 
     def test_customer_creation(self):
         mock_customer_id = str(uuid.uuid4())

@@ -3,7 +3,7 @@ import uuid
 from hotel_factory import HotelFactory
 
 
-class HotelTest(unittest.TestCase):
+class HotelFactoryTest(unittest.TestCase):
 
     def test_hotel_creation(self):
         mock_hotel_id = str(uuid.uuid4())

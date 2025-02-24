@@ -9,18 +9,12 @@ import os
 import sys
 
 def file_management_existence(file_catalog_input):
-    """
-    This function checks if the file exists.
-    """
     if not pathlib.Path(file_catalog_input).is_file():
         raise FileNotFoundError("File not found: ", file_catalog_input)
 
     print("Found file:", file_catalog_input)
 
 def open_file(file_name_input : str, resource : str):
-    """
-    Opens a file as pd dataframe
-    """
     PATH = "../resources/"
     FULL_PATH = PATH + file_name_input
     file_management_existence(FULL_PATH)
@@ -34,6 +28,9 @@ def open_file(file_name_input : str, resource : str):
 
         df_columns = ["customer_id", "name", "email", "phone"]
 
+    elif resource == "reservations":
+
+        df_columns = ["hotel_id", "client_id", "reservation_id", "status"]
 
     try:
         df = pd.read_json(FULL_PATH)
@@ -56,8 +53,6 @@ def save_file(df_input : pd.DataFrame, file_name_input : str):
 
 
 def parse_to(df_input : pd.DataFrame, column_name : str, data_type):
-    """
-    """
     df_input[column_name] = df_input[column_name].astype(data_type)
 
 
@@ -65,3 +60,17 @@ def empty_check(df_input : pd.DataFrame):
     if df_input.empty:
         print("Error: No hotels found in the database.")
         return False
+
+def check_if_id_exists(resource : str, value_to_search : str):
+    try:
+        df = open_file(resource + "s.json", resource)
+        empty_check(df)
+
+        parse_to(df, resource + "_id", str)
+
+        return value_to_search in df[resource + "_id"].values
+
+    except Exception as e:
+        print(f"An error occured: {e}")
+        return False
+

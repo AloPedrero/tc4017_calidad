@@ -16,5 +16,14 @@
         "rooms_available":30,
         "price_per_night":500,
         "rating":5
+    },
+    {
+        "hotel_id":"032b4814-fd87-42c2-95fe-959969b91659",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
     }
 ]
