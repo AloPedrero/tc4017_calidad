@@ -220,5 +220,11 @@
         "name":"John",
         "email":"a@gmail.com",
         "phone":722
+    },
+    {
+        "customer_id":"33c6be06-a7ef-424d-96a7-8b6ea0edab2e",
+        "name":"John",
+        "email":"a@gmail.com",
+        "phone":722
     }
 ]

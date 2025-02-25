@@ -1,6 +1,8 @@
 """
 This is the hotel class file
 """
+
+
 class Hotel():
     """
     Basic attributes that represent the hotel

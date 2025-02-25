@@ -130,5 +130,17 @@
         "client_id":"e2a3a7b0-c4a0-40e0-942a-49fd306de346",
         "reservation_id":"cb5b18ef-d041-4310-b8fa-f5df97ffe77a",
         "status":"Reserved"
+    },
+    {
+        "hotel_id":"7cd6ddc4-602b-4de9-93d0-afa03e8fbef3",
+        "client_id":"3e2087a2-445e-464c-82b1-18f882e8559c",
+        "reservation_id":"cf31ef73-898d-464e-bf55-75e831e8f53f",
+        "status":"Canceled"
+    },
+    {
+        "hotel_id":"e35a52ac-91f4-4e15-9d6b-c31b002dc701",
+        "client_id":"e99cf22c-4e48-4a31-96fd-df828cba346b",
+        "reservation_id":"3be94c99-6ef8-4c4b-a0e0-353129615512",
+        "status":"Reserved"
     }
 ]
