@@ -9,7 +9,7 @@ import uuid
 class ReservationFactory():
     @staticmethod
     def create_reservation(hotel_id : str,
-                           client_id : str):
+                           customer_id : str):
         """
         This method opens teh reservations files and creates
         the reservation with hotel and client id, changes the 
@@ -18,13 +18,12 @@ class ReservationFactory():
 
         try:
             df = open_file("reservations.json", "reservations")
-            print(df)
             
-            if not check_if_id_exists("hotel", hotel_id) or not check_if_id_exists("customer", client_id):
+            if not check_if_id_exists("hotel", hotel_id) or not check_if_id_exists("customer", customer_id):
                 raise Exception(f"Error: A hotel/client with ID does not exists.")   
 
             reservation_id = str(uuid.uuid4())
-            reservation = Reservation(hotel_id, client_id, reservation_id, "Reserved")
+            reservation = Reservation(hotel_id, customer_id, reservation_id, "Reserved")
 
             df = pd.concat([df, pd.DataFrame([reservation.to_dict()])], ignore_index=True)
 
@@ -48,7 +47,6 @@ class ReservationFactory():
         
         try:
             df = open_file("reservations.json", "reservations")
-            print(df)
 
             if not check_if_id_exists("reservation", reservation_id):
                 raise Exception(f"Error: A reservation with ID {reservation_id} do not exists.")

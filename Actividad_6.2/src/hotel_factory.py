@@ -16,7 +16,6 @@ class HotelFactory():
         """
         try:
             df = open_file("hotels.json", "hotel")
-            print(df)
 
             if hotel_id in df["hotel_id"].astype(str).values:
                 raise Exception(f"Error: A hotel with ID {hotel_id} already exists.")

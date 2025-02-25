@@ -25,5 +25,194 @@
         "rooms_available":30,
         "price_per_night":500,
         "rating":5
+    },
+    {
+        "hotel_id":"5990e609-7978-4432-803b-aab514c63fa4",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"3aecbab9-0160-4487-a53b-ab10b5305853",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"4d13e494-fd8d-4dc9-adb4-1c0c3fb493bf",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"32b173c8-122d-4e15-baf8-8982c8919df4",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"73009cb7-6e54-4dec-8ea7-1acc49089486",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"d04a32dc-d5c4-4442-b6f2-2316afff0ddd",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"54b5b91a-289c-4858-975e-c3b4dbe63c21",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"d5d6c2e3-f45d-412a-91e5-cb66955f64b6",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"020af45d-6221-49f6-a5b6-54b0257495f0",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"bde859cf-7e81-401c-9eb1-4860a1d7fde3",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"2f3e66ce-06ac-410b-9629-004269547d95",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"63e863e7-e108-4887-8cd9-8bfa805e2123",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"312ce0ac-b929-4b8f-9d14-16725caab2c4",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"14d74863-5e52-4fd5-97fd-cbe783b6a175",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"7cbe668d-0d8e-4075-936a-842cd1c65ca9",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"3314fd3e-9f02-4405-96e2-4ce2e1935723",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"24e1d6ac-b3de-41d3-aade-d03cbe826f00",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"bc29dcc1-48c9-4d76-8f70-31e13bf234ca",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"cd3d5ee9-6bb1-495d-adfa-7ea808d0ee8d",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"2543c3ef-c853-42f9-a58c-90aae751248e",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
+    },
+    {
+        "hotel_id":"7a8df99a-c9f1-488e-b67c-dde06292b62e",
+        "name":"Holiday Inn",
+        "location":"MEX",
+        "rooms_total":30,
+        "rooms_available":30,
+        "price_per_night":500,
+        "rating":5
     }
 ]
